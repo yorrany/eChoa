@@ -1,5 +1,9 @@
 # 🎵 Echoa
 
+<p align="center">
+      <img src="screenshot.png" alt="Screenshot do Echoa" width="600">
+    </p>
+    
 **Echoa** é um baixador de áudio simples e moderno para Linux, construído com Python e GTK3. Ele permite extrair áudio de vídeos do YouTube com facilidade, oferecendo escolha de qualidade e suporte nativo a Flatpak.
 
 ## ✨ Funcionalidades
