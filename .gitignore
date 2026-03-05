@@ -1,0 +1,16 @@
+# Pastas de construção do Flatpak
+.flatpak-builder/
+build-dir/
+repo/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Binários baixados (o Flatpak baixa isso automaticamente na hora do build)
+yt-dlp

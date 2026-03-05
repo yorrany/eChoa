@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.dev.Echoa</id>
+  <name>Echoa</name>
+  <summary>Extraia o áudio original de vídeos com facilidade</summary>
+  <developer_name>Seu Nome</developer_name>
+  
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  
+  <description>
+    <p>
+      O Echoa é um utilitário de interface limpa e moderna projetado para extrair o áudio original de links de vídeos. 
+      Sem conversões artificiais: ele lê os metadados do servidor e permite que você baixe a faixa de áudio com o bitrate exato disponibilizado na fonte, salvando tudo de forma organizada no seu computador.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">io.github.dev.Echoa.desktop</launchable>
+  
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/seu_usuario/Echoa/main/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+</component>

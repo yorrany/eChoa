@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Echoa
+Comment=Extraia áudio de vídeos na melhor qualidade
+Exec=start-app.sh
+Icon=io.github.dev.Echoa
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Utility;
